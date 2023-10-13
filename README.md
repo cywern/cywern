@@ -1,21 +1,15 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQEgGIG7yCdTww/profile-displaybackgroundimage-shrink_350_1400/0/1688380838979?e=1702512000&v=beta&t=6AWom9jQ5j9FjVLRd6oFr6jCsXfKB0zppKnATPmD-nM)
 <h1 align="center">Hi 👋, I'm cywern</h1>
 <h3 align="center">An aspiring Data Scientist and beginner in Artificial Intelligence and Machine Learning</h3>
-<img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-vector/concept-script-coding-programming-php-python-javascript-other-languages_180816-218.jpg?w=2000"
+<img align="right" alt="Coding" width="200" src="https://img.freepik.com/premium-vector/concept-script-coding-programming-php-python-javascript-other-languages_180816-218.jpg?w=2000"
 
 - 🔭 I’m currently working on **Virtual Paintbrush**
-
 - 🌱 I’m currently learning **Microsoft Azure, DSc, AI, ML, DSA**
-
 - 👯 I’m looking to collaborate on **Mental Health Tracking App**
-
 - 📝 I regularly write articles on [https://medium.com/@cywern](https://medium.com/@cywern)
-
 - 💬 Ask me about **UI/UX**
-
 - 📫 How to reach me **cywern.ai@gmail.com**
-
-- ⚡ Fun fact **I love writing, designing and books**
+- ⚡ Fun fact **I love writing, designing, and books**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
